@@ -31,7 +31,7 @@ Aqui no GitHub, compartilho meus projetos pessoais e acadêmicos desenvolvidos s
 </p>
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am4r00O&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am4r00&show_icons=true&theme=dracula)
 
 ## 📫 Como me encontrar
 - LinkedIn: [Seu Nome](https://linkedin.com/in/SEU_PERFIL)
