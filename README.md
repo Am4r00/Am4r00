@@ -1,4 +1,4 @@
-Eu sou 👨🏻‍💻 **João Ammaro**  
+Eu sou 👨🏻‍💻 **João Amaro**  
 💻 "'Desenvolvedor Back-end'"
 
 Olá! 👋
