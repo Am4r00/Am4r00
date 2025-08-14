@@ -34,6 +34,6 @@ Aqui no GitHub, compartilho meus projetos pessoais e acadêmicos desenvolvidos s
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am4r00&show_icons=true&theme=dracula)
 
 ## 📫 Como me encontrar
-- E-mail:joaovictoramaroalves@gmail.com
+- E-mail: joaovictoramaroalves@gmail.com
 
 ✨ _"Sempre em busca do próximo desafio."_
