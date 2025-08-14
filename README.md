@@ -21,7 +21,7 @@ Aqui no GitHub, compartilho meus projetos pessoais e acadêmicos desenvolvidos s
 ## 🔧 Tecnologias e Ferramentas
 <p
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373217%2Fjava_logo_logos_icon&psig=AOvVaw1oBnmTYNE-No8PgCw6v4m1&ust=1755299406735000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDIiea1i48DFQAAAAAdAAAAABAE)" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
