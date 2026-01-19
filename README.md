@@ -1,5 +1,5 @@
 Eu sou 👨🏻‍💻 **João Amaro**  
-💻 "'Desenvolvedor Back-end'"
+💻 "'Desenvolvedor Full-Stack'"
 
 Olá! 👋
 Sou João Amaro, tenho 21 anos e moro em São Paulo - SP.
