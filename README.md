@@ -8,9 +8,6 @@ Atuo principalmente com Java, Spring Boot, APIs REST e bancos de dados, criando 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-amaro-alves-44b20a2b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <a href="mailto:joaovictoramaroalves@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Am4r00&color=0A66C2&style=for-the-badge" alt="Visualizações do perfil" />
 </p>
 
