@@ -63,7 +63,7 @@ Plataforma acadêmica de e-commerce para venda de gift cards e jogos digitais.
 - Funcionalidades de carrinho, checkout, painel administrativo, usuários, produtos, pedidos e envio de e-mails.
 - Testes com JUnit 5, Mockito e Spring Boot Test.
 
-## Estatísticas
+## 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Am4r00&theme=dracula&hide_border=true" alt="GitHub Streak" />
