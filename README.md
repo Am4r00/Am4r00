@@ -6,9 +6,6 @@ Tenho foco em desenvolvimento backend com Java e Spring Boot, criando projetos a
 Atuo principalmente com Java, Spring Boot, APIs REST e bancos de dados, criando projetos acadêmicos e pessoais com foco em backend, autenticação e organização de código.
 
 <p align="center">
-  <a href="https://github.com/Am4r00">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-amaro-alves-44b20a2b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   <a href="mailto:joaovictoramaroalves@gmail.com">
@@ -24,7 +21,7 @@ Atuo principalmente com Java, Spring Boot, APIs REST e bancos de dados, criando 
 - Tenho interesse especial em backend, APIs REST, segurança e bancos de dados.
 - Gosto de transformar aprendizado em projetos práticos e bem documentados.
 - Uso este GitHub para organizar estudos, projetos acadêmicos e experiências pessoais.
-- 
+  
 ## Linguagens
 
 <p align="left">
@@ -54,6 +51,8 @@ Atuo principalmente com Java, Spring Boot, APIs REST e bancos de dados, criando 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
 
+## Projeto em destaque
+
 ### [SriLanka Card](https://github.com/Am4r00/SriLanka-Card)
 
 Plataforma acadêmica de e-commerce para venda de gift cards e jogos digitais.
@@ -63,18 +62,6 @@ Plataforma acadêmica de e-commerce para venda de gift cards e jogos digitais.
 - Interface com Thymeleaf, HTML, CSS e JavaScript.
 - Funcionalidades de carrinho, checkout, painel administrativo, usuários, produtos, pedidos e envio de e-mails.
 - Testes com JUnit 5, Mockito e Spring Boot Test.
-
-## Em evolução
-
-Atualmente estou aprofundando meus conhecimentos em:
-Plataforma acadêmica de e-commerce para venda de gift cards e jogos digitais, desenvolvida com Java 21, Spring Boot, PostgreSQL, JWT, Thymeleaf e JavaScript.
-
-- Java, Kotlin e orientação a objetos
-- Spring Boot e APIs REST
-- JavaScript, TypeScript, React e Angular
-- Bancos relacionais e MongoDB
-- Segurança, autenticação e autorização
-- Versionamento com Git e GitHub
 
 ## Estatísticas
 
